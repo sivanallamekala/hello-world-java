@@ -35,6 +35,10 @@
 public class HelloWorld {
   public static void main(String[] args) {
      System.out.println("Hello, DevOps");
+    System.out.println("Hello, krishna");
+    System.out.println("Hello, AWS";
+    System.out.println("Hello, Vcube");
+    System.out.println("Hello, Docker");
 
 
   }
