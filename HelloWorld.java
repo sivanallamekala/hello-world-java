@@ -36,8 +36,7 @@ public class HelloWorld {
   public static void main(String[] args) {
      System.out.println("Hello, DevOps");
     System.out.println("Krishna, DevOps");
-    System.out.println("Vcube DevOps");
-    
+       
 
   }
 }
