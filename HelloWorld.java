@@ -35,8 +35,8 @@
 public class HelloWorld {
   public static void main(String[] args) {
      System.out.println("Hello, KrishnaDevOps");
-     System.out.println("Hello, KrishnaDevOps_AWS01");
-     System.out.println("Hello, Jenkinsteam"); 
+     System.out.println("Hello, KrishnaDevOps_AWS011");
+     System.out.println("Hello, Jenkinsteams"); 
 
   }
 }
